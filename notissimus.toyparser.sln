@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notissimus.toyparser.cli", "notissimus.toyparser.cli\notissimus.toyparser.cli.csproj", "{D28A5320-A12B-45EB-8F15-985A25327A03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notissimus.toyparser.core", "notissimus.toyparser.core\notissimus.toyparser.core.csproj", "{3231C8F4-F72E-4857-9AAE-3E3F2AF3B81A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D28A5320-A12B-45EB-8F15-985A25327A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28A5320-A12B-45EB-8F15-985A25327A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28A5320-A12B-45EB-8F15-985A25327A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28A5320-A12B-45EB-8F15-985A25327A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3231C8F4-F72E-4857-9AAE-3E3F2AF3B81A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3231C8F4-F72E-4857-9AAE-3E3F2AF3B81A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3231C8F4-F72E-4857-9AAE-3E3F2AF3B81A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3231C8F4-F72E-4857-9AAE-3E3F2AF3B81A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
