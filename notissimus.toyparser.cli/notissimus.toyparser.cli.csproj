@@ -5,6 +5,21 @@
         <TargetFramework>net7.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <RootNamespace>notissimus.toyparser.cli</RootNamespace>
     </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AngleSharp" Version="1.0.4" />
+      <PackageReference Include="NLog" Version="5.2.3" />
+      <PackageReference Include="NLog.Extensions.Logging" Version="5.3.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\notissimus.toyparser.core\notissimus.toyparser.core.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <None Update="nlog.config" CopyToOutputDirectory="Always" />
+    </ItemGroup>
 
 </Project>

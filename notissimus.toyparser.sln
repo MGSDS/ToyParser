@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notissimus.toyparser.cli", "notissimus.toyparser.cli\notissimus.toyparser.cli.csproj", "{D28A5320-A12B-45EB-8F15-985A25327A03}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notissimus.ToyParser.Cli", "Notissimus.ToyParser.Cli\Notissimus.ToyParser.Cli.csproj", "{D28A5320-A12B-45EB-8F15-985A25327A03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notissimus.toyparser.core", "notissimus.toyparser.core\notissimus.toyparser.core.csproj", "{3231C8F4-F72E-4857-9AAE-3E3F2AF3B81A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notissimus.ToyParser.Core", "Notissimus.ToyParser.Core\Notissimus.ToyParser.Core.csproj", "{3231C8F4-F72E-4857-9AAE-3E3F2AF3B81A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

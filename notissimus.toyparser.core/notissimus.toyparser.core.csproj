@@ -6,8 +6,29 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+
     <ItemGroup>
-      <Folder Include="Interfaces\" />
+      <PackageReference Include="AngleSharp" Version="1.0.4" />
+      <PackageReference Include="CsvHelper" Version="30.0.1" />
+      <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.0-preview.6.23329.7" />
+
+
+
+
     </ItemGroup>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </Project>
